@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Varshney</h1>
 <h3 align="center">A passionate FiveM Developer developer from India</h3>
 
-<img align="right" alt="coding" width="400" src=https://th.bing.com/th/id/R.af774a742f881d81f03fec26f6574821?rik=3TPRUHQyfG9lTw&riu=http%3a%2f%2fpre00.deviantart.net%2f9024%2fth%2fpre%2ff%2f2015%2f162%2f4%2f5%2fprofile_pic_animation_by_incognitobserver-d8wwyu7.jpg>
+<img align="right" alt="coding" width="400" src=https://th.bing.com/th/id/R.af774a742f881d81f03fec26f6574821?rik>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
