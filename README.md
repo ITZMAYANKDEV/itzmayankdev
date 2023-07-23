@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mayank Varshney</h1>
 <h3 align="center">A passionate FiveM Developer developer from India</h3>
 
+<img align="right" alt="coding" width="400" src=https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/itz mayank live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itz mayank live" height="30" width="40" /></a>
